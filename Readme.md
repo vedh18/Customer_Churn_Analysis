@@ -5,7 +5,7 @@ Welcome to the submission guidelines for your assignments. Please follow the ins
 ## Steps for Submission
 
 1. **Fork the Repository**:
-   - Begin by creating a fork of the main repository to your own GitHub account.
+   - Begin by creating a fork of the main repository to your own GitHub account. If already forked, sync the fork, so that the branch is updated.
 
 2. **Upload Your Submission**:
    - Navigate to the appropriate assignment folder. Each assignment has its own dedicated folder under `Assignments`.
@@ -20,7 +20,7 @@ Welcome to the submission guidelines for your assignments. Please follow the ins
 
 If you are submitting your assignment for Assignment 2 and your roll number is `230001`, the steps would be:
 
-1. Fork the repository.
+1. Fork/Sync the repository.
 2. Upload your file named `230001.ipynb` to the folder `Assignments/Assignment2`.
 3. Create a pull request with your changes.
 
